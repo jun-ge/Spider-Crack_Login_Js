@@ -59,6 +59,3 @@ JS解密案例
 └─ 芒果tv 
     └── gmtv_login.js                // JavaScript解密demo
 ```
-
-欢迎关注公众号
-![汪唔学python](https://raw.githubusercontent.com/Bindian9710/Img/master/wecath_Official/Wechat_Code_subsize.png)
